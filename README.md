@@ -12,3 +12,8 @@ The Little Lemon booking system is designed to provide a user-friendly interface
 + Confirmation Notifications: Once a reservation is made, users receive instant confirmation via email or SMS, providing peace of mind.
 + Flexible Modifications: Guests can easily modify or cancel their reservations if their plans change, making the process hassle-free.
 + Special Requests: The booking form allows users to include special requests, such as dietary restrictions or seating preferences, ensuring a personalized dining experience.
+
+## Screen Shots
+![image](https://github.com/user-attachments/assets/24a6b8aa-c053-4a47-84ed-0f555e4b8e62)
+![image](https://github.com/user-attachments/assets/b1babc78-ddb9-42f0-897e-609a89c78fdd)
+
